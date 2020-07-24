@@ -10,7 +10,7 @@ const  studentSchema = new mongoose.Schema( {
 
 const subjectSchema = new mongoose.Schema ( {
     subject:[{type : String}],
-    roll : { type : String, required: true}   
+    roll : { type : String, required
 })
 
 
